@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "com.stockandcook.monapplication",
       "sha256_cert_fingerprints": [
-        "DA:53:44:19:8D:2C:D9:A3:31:63:F8:EE:C3:4A:58:34:37:6D:D4:4B:E6:E0:B3:E6:83:DD:9F:A2:90:F5:58:1D"
+        "DA:53:44:19:8D:2C:D9:A3:31:63:F8:EE:C3:4A:58:34:37:6D:D4:4B:E6:E0:B3:E6:83:DD:9F:A2:90:F5:58:1D",
+        "BF:3F:84:3A:6B:19:50:BE:17:88:D6:BC:CF:A9:5E:7F:40:B4:96:A8:7E:E7:1E:38:70:3D:33:31:B5:44:21:5A"
       ]
     }
   }
